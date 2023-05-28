@@ -11,6 +11,14 @@ pip install keras
 pip install pillow
 ```
 
+# Change images path according to dataset location on your device
+```
+dir = "./dataset/training_set/"
+```
+
+# Dataset used in the project
+https://www.kaggle.com/datasets/chetankv/dogs-cats-images
+
 # Dog sample
 
 ![alt text](https://github.com/ZeyadAbdullah679/classification-dogs-and-cats-using-svm/blob/main/dog_sample.jpg?raw=true)
